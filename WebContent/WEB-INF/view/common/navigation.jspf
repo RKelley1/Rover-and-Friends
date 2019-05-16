@@ -1,0 +1,29 @@
+<nav role="navigation" class="navbar navbar-default">
+
+	<div class="">
+		<a href="/RoverAndFriends/home" class="navbar-brand">RoverAndFriends</a>
+	</div>
+
+	<div class="navbar-collapse amber darken-3">
+	<div style="color:#FF4500">
+		<ul class="nav navbar-nav" style="backgroundcolor:#FF4500">
+			<li><a href="/RoverAndFriends/home">Home</a></li>
+			<li><a href="/RoverAndFriends/profile">Profile</a></li>
+			<li><a href="/RoverAndFriends/friends">Friends</a></li>
+			<li><a href="/RoverAndFriends/addFriends">Add Friends</a></li>
+			<li><a href="/RoverAndFriends/find-pet-sitter">Find Pet Sitter</a></li>
+			<li><a href="/RoverAndFriends/pet-store-locator">Pet Store Locator</a></li>
+			<li><a href="/RoverAndFriends/list-calendarEvents">Calendar</a></li>
+			<li><a href="/RoverAndFriends/buy-pet-tag">Buy Pet Tag</a></li>
+			
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<!--  <li><a href="/RoverAndFriends/">Logout</a></li>-->
+		</ul>
+		
+		
+	</div>
+	</div>
+
+</nav>
+
